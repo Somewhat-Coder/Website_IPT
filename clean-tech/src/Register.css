@@ -1,7 +1,11 @@
 
 .Container{
     background-color: #eec617;
-    margin: 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 80vw;
+    float: none;
+
     border-radius: 25px;
     padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
